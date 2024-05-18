@@ -1,6 +1,6 @@
 # Odds Fluctuation Model: A Proven Hedge Over Sports Betting
-By Pedro Farias
-* [LinkedIn](https://www.linkedin.com/in/pedrosfarias/)
+By **Pedro Farias**
+[LinkedIn](https://www.linkedin.com/in/pedrosfarias/)
 ---
 ## Introduction
 In the sports betting world, understanding and leveraging odds is crucial for gaining a competitive edge. This project aims to enhance betting outcomes through the deep analysis of market fluctuations, focusing on Closing Line Value (CLV) as a key performance metric. By applying advanced machine learning techniques, we strive to provide accurate and actionable predictions.
