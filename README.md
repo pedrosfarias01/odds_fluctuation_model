@@ -3,7 +3,7 @@ By **Pedro Farias**
 * [LinkedIn](https://www.linkedin.com/in/pedrosfarias/)
 ---
 ## Introduction
-In the sports betting world, understanding and leveraging odds is crucial for gaining a competitive edge. This project aims to enhance betting outcomes through the deep analysis of market fluctuations, focusing on Closing Line Value (CLV) as a key performance metric. By applying advanced machine learning techniques, we strive to provide accurate and actionable predictions.
+In the professional sports betting scenario, understanding odds fluctuation before a match starts is crucial to gaining a competitive advantage. This project aims to enhance betting outcomes through the deep analysis of the betting market, focusing on Closing Line Value (CLV) as a key performance metric. By applying advanced machine learning techniques, we strive to provide accurate and actionable predictions.
 
 ## What is CLV in the Sports Betting Scenario?
 Closing Line Value (CLV) is a fundamental concept in sports betting, used to measure the value of a bet placed before the market closes. The closing odds, set by bookmakers just before an event starts, are considered the most accurate reflection of an event's true probability, as they incorporate all available information. By comparing the odds at which you placed your bet (the opening odds) with the closing odds, CLV can be calculated. Consistently achieving a positive CLV, where your bet odds are better than the closing odds, indicates a bettor's ability to find value and make predictions more accurately than the market.
